@@ -1,0 +1,44 @@
+..herencia 
+..encapsular 
+..manejo de excepsiones 
+..orientado a objetos 
+
+
+
+
+import string
+
+
+string = "contenedor"
+numero = 1
+flotante = True
+
+lista = ("lista")
+
+#condicional 
+if numero == 1:
+    print ("el numero es 1 ")
+elif numero > 1:
+    print("el numero tambien es mayor que uno ")
+else:
+    print("el numero no es  y es menor que 1 ")
+
+#funcion 
+
+def nombre(arg):
+    print ("cuertpo")
+
+#bucle for 
+
+for i in a_recorrer:
+    print (i)
+
+#bucle while 
+
+while True:
+    print ("infinito")
+
+#clases 
+
+#Tkinter 
+#
