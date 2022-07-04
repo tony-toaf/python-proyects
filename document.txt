@@ -1,0 +1,1 @@
+Pues hemos llegado al final de este tutorial. En él, hemos repasado los diferentes métodos de la clase String para convertir una cadena a mayúsculas y minúsculas en Python.
