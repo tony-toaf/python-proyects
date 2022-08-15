@@ -1,4 +1,3 @@
-from __future__ import division
 from tkinter import *
 root = Tk()
 root.title("Calculadora by Toaf")
