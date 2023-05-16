@@ -4,7 +4,6 @@ pygame.init()
 zise =(400, 500) #tamagano de la ventana
 
 #area colores 
-
 black=(0,0,0)
 white =(255,255,255)
 green = (0,255,0)
